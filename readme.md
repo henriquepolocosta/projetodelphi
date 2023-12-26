@@ -1,0 +1,1 @@
+Neste arquivo de instrucao vou falar um pouso sobre a programacao no delphi
